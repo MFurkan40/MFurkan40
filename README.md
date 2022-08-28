@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React.Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MFurkan40?tab=repositories](https://github.com/MFurkan40?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/MFurkan40?tab=repositories)
 
 - 📫 How to reach me **mfurkan1140@gmail.com**
 
