@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfurkan40&label=Profile%20views&color=0e75b6&style=flat" alt="mfurkan40" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfurkan40" alt="mfurkan40" /></a> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfurkan40&title=Joined2020,Commits,Repositories,Stars&theme=monokai" alt="mfurkan40" /></a> </p>
 
 - 🔭 I’m currently working on **Web Apps**
